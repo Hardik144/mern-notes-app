@@ -219,9 +219,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+**Hardik Patidar**
+- LinkedIn: [Hardik Patidar](https://www.linkedin.com/in/hardikpatidar)
 
 ---
 
